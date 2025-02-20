@@ -1,13 +1,13 @@
 :root {
     /* Colors */
-    --color-green: hsl(75, 94%, 57%);
+    --color-green: hsl(184, 96%, 49%);
     --color-white: hsl(0, 0%, 82%);
     --color-grey-700: hsl(0, 0%, 20%);
     --color-grey-800: hsl(0, 0%, 12%);
     --color-grey-900: hsl(0, 0%, 8%);
   
     /* Typography */
-    --font-family-inter: 'Inter', sans-serif;
+    --font-family-inter: 'Helvetica', sans-serif;
     --font-weight-regular: 400;
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
